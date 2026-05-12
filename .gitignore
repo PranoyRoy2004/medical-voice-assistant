@@ -141,3 +141,21 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Backend Python
+backend/venv/
+backend/__pycache__/
+backend/.env
+backend/**/__pycache__/
+*.pyc
+*.pyo
+__pycache__/
+
+# Frontend specific
+frontend/.next/
+frontend/node_modules/
+frontend/.env.local
+
+# Environment files
+.env.local
+.env.production
