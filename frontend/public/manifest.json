@@ -1,0 +1,17 @@
+{
+  "name": "Swasthya Mitra — स्वास्थ्य मित्र",
+  "short_name": "Swasthya Mitra",
+  "description": "Regional Language Medical Voice Assistant for Rural India",
+  "start_url": "/chat",
+  "display": "standalone",
+  "background_color": "#075E54",
+  "theme_color": "#075E54",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
